@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Account Management System");
 
-            string username = "glennlambert";
+            string username = "glnnlmbrt";
             string password = "gnnlmbrt123!";
 
             Console.WriteLine("Enter Username: ");
